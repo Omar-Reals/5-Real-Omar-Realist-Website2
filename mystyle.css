@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* CSS Document */
+/* unvisited link */
+a:link {
+  color: #500552;
+	background-color: #FFB6CB;
+	padding: 5px 5px;
+	margin: 5px 10px;
+	border-radius: 10px;
+}
+
+/* visited link */
+a:visited {
+  color: #D55D8D;
+	background-color: #FFB6CB;
+	padding: 10px 10px;
+	margin: 5px 10px;
+	border-radius: 10px;
+}
+
+/* mouse over link */
+a:hover {
+  color: #B66681;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+body {
+	background-color: #EEC8CF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-left:auto;
+	margin-right: auto;
+}
+#omar {
+	background-color: #634A45; 
+	background-image: url("photos/browncat.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	width:100%;
+	background-position: center;
+	color: #CE8A97; 
+	font-size: 65px; 
+	text-align: center; 
+	padding: 25px;
+}
+#guide {
+	text-align: center; 
+	background-color: #CE8A97; 
+	font-size: 20px; 
+	padding: 5px
+}
+#footer {
+	text-align: center; 
+	background-color: #CE8A97; 
+	font-size: 15px; 
+	padding: 8px;
+}
+#titles2{
+	text-align: left; 
+	font-size: 45px;
+	margin: 15px;
+	padding: 15px;
+}
+#normaltext{
+	text-align: center; 
+	font-size: 30px;
+	
+}
+#normaltext2{
+	text-align: center; 
+	font-size: 30px;
+	padding-left: 15px;
+}
+.whatthe{
+	font-size:30px;
+	margin: 5px;
+	padding-left: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.threecollums {
+	width: 31%; 
+	padding:15px;
+	float: left;
+	background-color:#DB9EB8;
+	margin:5px;
+	text-decoration: none;
+}
+.threecollums:hover{
+	  box-shadow: 5px 5px 5px 5px #888888;
+	rotate:1deg;
+	transfomr: translateY(-5px);
+}
