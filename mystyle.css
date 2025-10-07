@@ -32,7 +32,7 @@ body {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	margin-left:auto;
 	margin-right: auto;
-	max-width: 1800px;
+	max-width: 1600px;
 }
 #omar {
 	background-color: #634A45; 
@@ -60,29 +60,29 @@ body {
 }
 #titles2{
 	text-align: left; 
-	font-size: 45px;
+	font-size: 35px;
 	margin: 15px;
 	padding: 15px;
 }
 #normaltext{
-	text-align: center; 
-	font-size: 30px;
+	text-align: left; 
+	font-size: 25px;
 	
 }
 #normaltext2{
-	text-align: center; 
-	font-size: 30px;
+	text-align: left; 
+	font-size: 25px;
 	padding-left: 15px;
 }
 .whatthe{
-	font-size:30px;
+	font-size:25px;
 	margin: 5px;
 	padding-left: 15px;
 	margin-left: auto;
 	margin-right: auto;
 }
 .threecollums {
-	width: 31%; 
+	width: 30%; 
 	padding:15px;
 	float: left;
 	background-color:#DB9EB8;
